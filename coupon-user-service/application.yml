@@ -189,3 +189,5 @@ management:
         include: '*'
   security:
     enabled: false
+
+request-coupon-disabled: true
