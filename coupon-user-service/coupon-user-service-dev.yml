@@ -190,7 +190,7 @@ management:
   security:
     enabled: false
 
-request-coupon-disabled: false
+request-coupon-disabled: true
 
 
 
